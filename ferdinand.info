@@ -1,0 +1,8 @@
+; $Id:  $
+name = Ferdinand
+description = Minimalistic, left-aligned Theme for Blogging with Drupal with a tribute to the great Inventor.
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+
